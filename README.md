@@ -12,9 +12,9 @@ A 3D tower-defense game built with **C#**, **.NET 9** and **MonoGame DesktopGL**
 - Rotating 3D camera, effects and layered audio
 - Automated checks plus manual gameplay testing
 
-## Aziz's documented contribution
+## Aziz's contribution
 
-Aziz acted as **team lead** and focused primarily on gameplay flow, game states, menus and HUD integration. His documented work includes wave flow, gold and castle health, Royal Power activation, route information in the HUD, state integration for enemies, audio/effect events, final integration and acceptance.
+Aziz acted as **team lead** and focused primarily on gameplay flow, game states, menus and HUD integration. His work includes wave flow, gold and castle health, Royal Power activation, route information in the HUD, state integration for enemies, audio/effect events, final integration and acceptance.
 
 ## Team
 
@@ -28,7 +28,7 @@ dotnet build
 dotnet run
 ```
 
-Verified locally with .NET 9: **build succeeded with 0 warnings and 0 errors**.
+Current .NET 9 build status: **0 warnings and 0 errors**.
 
 ## Controls
 
@@ -38,8 +38,8 @@ Verified locally with .NET 9: **build succeeded with 0 warnings and 0 errors**.
 - `Space` — start a wave where available
 - `Esc` — pause/resume or return from submenus
 
-## Credits and repository scope
+## Credits
 
 The repository contains the final source snapshot and the assets required to build the game. The 3D models and tower UI icons were created by the university project team. Verified creator, source, license and conversion details for every audio file are recorded in [`Content/Audio/ATTRIBUTION.txt`](Content/Audio/ATTRIBUTION.txt), while all visual-asset ownership is summarized in [`Content/ASSET_CREDITS.md`](Content/ASSET_CREDITS.md).
 
-The team selected, converted and integrated the credited Pixabay audio; the original recordings remain the work of their listed creators. Audio files are included only as integrated game resources and are not offered for standalone reuse. Team-authored work and third-party assets retain their respective rights; no blanket repository license is asserted.
+The team selected, converted and integrated the credited Pixabay audio; the original recordings remain the work of their listed creators. The audio is included as part of the game and is not offered as a standalone sound collection.
