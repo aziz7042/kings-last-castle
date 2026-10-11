@@ -1,0 +1,64 @@
+KING'S LAST CASTLE - AUDIO ATTRIBUTION
+======================================
+
+Third-party audio is used under the Pixabay Content License:
+https://pixabay.com/service/license-summary/
+
+The license applies to the source media, not to the repository as a whole. These
+credits are provided even though Pixabay does not require attribution. Source
+pages and license status were verified on 11 October 2026.
+
+Background music
+----------------
+
+Files: the_tree_of_life.mp3, the_tree_of_life.ogg
+Title: The Tree of Life - Fantasy RPG
+Creator: Geoff Harvey (geoffharvey)
+Source: https://pixabay.com/music/ambient-the-tree-of-life-fantasy-rpg-392751/
+License: Pixabay Content License
+Modification: the MP3 is retained as supplied; the OGG copy was converted for
+MonoGame DesktopGL playback.
+
+Tower sound effects
+-------------------
+
+File: tower_arrow.wav
+Title: Bow Release (Bow and Arrow) 4
+Creator: Ali_6868 (Freesound), distributed by freesound_community on Pixabay
+Source: https://pixabay.com/sound-effects/film-special-effects-bow-release-bow-and-arrow-4-101936/
+License: Pixabay Content License
+Modification: converted from the downloaded MP3 to WAV and renamed for runtime use.
+
+File: tower_cannon.wav
+Title: Cannon Shot (download filename: powerful-cannon-shot-352459.mp3)
+Creator: Universfield
+Source: https://pixabay.com/sound-effects/film-special-effects-cannon-shot-352459/
+License: Pixabay Content License
+Modification: converted from the downloaded MP3 to WAV and renamed for runtime use.
+
+File: tower_crystal.wav
+Title: laser shot ingame
+Creator: RibhavAgrawal
+Source: https://pixabay.com/sound-effects/film-special-effects-laser-shot-ingame-230500/
+License: Pixabay Content License
+Modification: converted from the downloaded MP3 to WAV and renamed for runtime use.
+
+Castle-damage sound
+-------------------
+
+File: castle_damage.wav
+Title: thump (on carpet)
+Creator: animationIsaac (Freesound), distributed by freesound_community on Pixabay
+Source: https://pixabay.com/sound-effects/film-special-effects-thump-on-carpet-107101/
+License: Pixabay Content License
+Modification: converted from the downloaded MP3 to WAV and renamed for runtime use.
+
+Project-created feedback sounds
+-------------------------------
+
+Files: victory.wav, defeat.wav, royal_trap.wav
+Creator: university project team
+Source: created for this project; no external source URL
+License: project material; no separate reuse license is granted
+Modification: short synthesized effects generated for the game; no external
+recordings are used.

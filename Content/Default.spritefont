@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="Graphics:FontDescription">
+    <FontName>Arial</FontName>
+    <Size>14</Size>
+    <Spacing>0</Spacing>
+    <UseKerning>true</UseKerning>
+    <Style>Regular</Style>
+    <CharacterRegions>
+      <CharacterRegion>
+        <Start>&#32;</Start>
+        <End>&#126;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#160;</Start>
+        <End>&#255;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#8211;</Start>
+        <End>&#8211;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#8594;</Start>
+        <End>&#8594;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#9733;</Start>
+        <End>&#9734;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#9889;</Start>
+        <End>&#9889;</End>
+      </CharacterRegion>
+    </CharacterRegions>
+  </Asset>
+</XnaContent>
